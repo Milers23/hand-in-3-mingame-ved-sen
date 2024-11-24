@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQYABAAAAAAAADMzMzMDADMzNvdvcwMwN3d293du8y83bvLzMy7vNy9u7zd3bu83L273N3du8zcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27zNy9u7zd3bu8vN27y8zMu7zA3d3b3d27zADMzNvdvcwMAAAAzMzMzAw=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sofa"
+    },
+    "image1": {
+        "data": "hwQYABAAAAAAAADMzMzMDADMzNvdvcwMwN3d293du8y83bvLzMy7vNy9u7zd3bu83L273N3du8zcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27DNy9u9zd3bsM3L273N3duwzcvbvc3d27zNy9u7zd3bu8vN27y8zMu7zA3d3b3d27zADMzNvdvcwMAAAAzMzMzAw=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SOFA"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
